@@ -12,7 +12,7 @@
   },
   "typings": "./index.d.ts",
   "peerDependencies": {
-    "realm": "^6.0"
+    "realm": "^10.6.0"
   },
   "jest": {
     "transform": {
